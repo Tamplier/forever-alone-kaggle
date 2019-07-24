@@ -1,0 +1,468 @@
+,job_title,employment,edu_level,job_family
+0,mechanical drafter,employed for wages,associate degree,Architecture and Engineering
+1,-,out of work and looking for work,"some college, no degree",None
+2,unemployed,out of work but not currently looking for work,"some college, no degree",None
+3,student,a student,"some college, no degree",None
+4,factory worker,employed for wages,"high school graduate, diploma or the equivalent (for example: ged)",Construction and Extraction
+5,game programmer,employed for wages,bachelor’s degree,Computer and Mathematical
+6,janitor,employed for wages,"high school graduate, diploma or the equivalent (for example: ged)",None
+7,fabricator,employed for wages,trade/technical/vocational training,Production
+8,cashier,employed for wages,"some college, no degree",Sales and Related
+9,software engineer,employed for wages,master’s degree,Architecture and Engineering
+10,nurse,employed for wages,bachelor’s degree,Healthcare Practitioners and Technical
+11,freight associate,employed for wages,"some college, no degree",Office and Administrative Support
+12,student,a student,"some college, no degree",None
+13,neet,unable to work,"high school graduate, diploma or the equivalent (for example: ged)",None
+14,broker,employed for wages,bachelor’s degree,None
+15,student,retired,"high school graduate, diploma or the equivalent (for example: ged)",None
+16,intern,out of work and looking for work,bachelor’s degree,None
+17,student,a student,bachelor’s degree,None
+18,student,a student,"some high school, no diploma",None
+19,surveyor,employed for wages,"high school graduate, diploma or the equivalent (for example: ged)",Architecture and Engineering
+20,part time computer tutor,employed for wages,bachelor’s degree,Computer and Mathematical
+21,student,a student,"some college, no degree",None
+22,student,a student,"some high school, no diploma",None
+23,kitchen staff,a student,bachelor’s degree,None
+24,software developer,employed for wages,"high school graduate, diploma or the equivalent (for example: ged)",Computer and Mathematical
+25,student,a student,"some high school, no diploma",None
+26,guy,employed for wages,trade/technical/vocational training,None
+27,none (?),a student,"some high school, no diploma",None
+28,student,a student,bachelor’s degree,None
+29,peon,a student,"some college, no degree",None
+30,None,a student,"some high school, no diploma",None
+31,student,a student,bachelor’s degree,None
+32,student,a student,"high school graduate, diploma or the equivalent (for example: ged)",None
+33,chef,employed for wages,"high school graduate, diploma or the equivalent (for example: ged)",None
+34,butcher,employed for wages,"high school graduate, diploma or the equivalent (for example: ged)",None
+35,"medical student, year 4",a student,doctorate degree,None
+36,software full stack developer,employed for wages,bachelor’s degree,Computer and Mathematical
+37,junior ba,a student,bachelor’s degree,None
+38,cinema student,a student,"some college, no degree",None
+39,engineer,a student,professional degree,Architecture and Engineering
+40,student,a student,bachelor’s degree,None
+41,iternent peagogue,employed for wages,bachelor’s degree,None
+42,software developer,employed for wages,bachelor’s degree,Computer and Mathematical
+43,admin assistant,out of work and looking for work,"high school graduate, diploma or the equivalent (for example: ged)",Healthcare Support
+44,cook,employed for wages,"high school graduate, diploma or the equivalent (for example: ged)",Food Preparation and Serving Related
+45,grad student,a student,master’s degree,None
+46,aviation electricians mate,military,"some college, no degree",Transportation and Material Moving
+47,student,a student,"some college, no degree",None
+48,student,a student,"high school graduate, diploma or the equivalent (for example: ged)",None
+49,software engineer,employed for wages,bachelor’s degree,Architecture and Engineering
+50,professional neet,out of work but not currently looking for work,"some college, no degree",None
+51,cashier,employed for wages,"some college, no degree",Sales and Related
+52,service desk analyst,employed for wages,"some college, no degree",Business and Financial Operations
+53,researcher,a student,master’s degree,None
+54,None,a student,"high school graduate, diploma or the equivalent (for example: ged)",None
+55,None,out of work but not currently looking for work,"some college, no degree",None
+56,loser,employed for wages,"high school graduate, diploma or the equivalent (for example: ged)",None
+57,store clerk,employed for wages,bachelor’s degree,Office and Administrative Support
+58,neet,out of work but not currently looking for work,"some college, no degree",None
+59,intern,employed for wages,bachelor’s degree,None
+60,management,employed for wages,bachelor’s degree,Business and Financial Operations
+61,engineering co-op student,employed for wages,"some college, no degree",Architecture and Engineering
+62,supervisor,employed for wages,bachelor’s degree,Personal Care and Service
+63,student,a student,"high school graduate, diploma or the equivalent (for example: ged)",None
+64,student,a student,"some high school, no diploma",None
+65,it,employed for wages,"some college, no degree",None
+66,software development,a student,"some college, no degree",Computer and Mathematical
+67,bum,out of work but not currently looking for work,"high school graduate, diploma or the equivalent (for example: ged)",None
+68,none,retired,"some college, no degree",None
+69,grad student,a student,master’s degree,None
+70,unemployed,unable to work,"high school graduate, diploma or the equivalent (for example: ged)",None
+71,it technician,employed for wages,"high school graduate, diploma or the equivalent (for example: ged)","Life, Physical, and Social Science"
+72,.,a student,bachelor’s degree,None
+73,engineer,employed for wages,bachelor’s degree,Architecture and Engineering
+74,laborer,employed for wages,"some college, no degree","Farming, Fishing, and Forestry"
+75,software engineer,employed for wages,bachelor’s degree,Architecture and Engineering
+76,student,a student,"some college, no degree",None
+77,product designer,employed for wages,master’s degree,"Arts, Design, Entertainment, Sports, and Media"
+78,data entry,employed for wages,bachelor’s degree,Office and Administrative Support
+79,student,a student,"some college, no degree",None
+80,engineer,self-employed,"some college, no degree",Architecture and Engineering
+81,sales,employed for wages,bachelor’s degree,Sales and Related
+82,.,a student,bachelor’s degree,None
+83,.,out of work but not currently looking for work,"high school graduate, diploma or the equivalent (for example: ged)",None
+84,systems analyst,out of work but not currently looking for work,"some college, no degree",Business and Financial Operations
+85,freshman,employed for wages,"some high school, no diploma",None
+86,coder,a student,associate degree,None
+87,undergraduate.,a student,"some college, no degree",None
+88,medical services,a student,trade/technical/vocational training,Healthcare Support
+89,delivery guy,out of work and looking for work,"some college, no degree",None
+90,it operations,employed for wages,bachelor’s degree,Transportation and Material Moving
+91,engineer,employed for wages,bachelor’s degree,Architecture and Engineering
+92,intermediate call center representative,employed for wages,bachelor’s degree,Office and Administrative Support
+93,unemployed,unable to work,"high school graduate, diploma or the equivalent (for example: ged)",None
+94,.,out of work but not currently looking for work,bachelor’s degree,None
+95,call center agent,employed for wages,"some college, no degree",None
+96,economist,a student,bachelor’s degree,"Life, Physical, and Social Science"
+97,farm hand,employed for wages,"high school graduate, diploma or the equivalent (for example: ged)",Business and Financial Operations
+98,i have no job,a student,"some college, no degree",None
+99,undergraduate,a student,"some college, no degree",None
+100,student,a student,"high school graduate, diploma or the equivalent (for example: ged)",None
+101,loser,a student,"some high school, no diploma",None
+102,na,unable to work,"some college, no degree",None
+103,none,unable to work,"high school graduate, diploma or the equivalent (for example: ged)",None
+104,optometric tech,a student,master’s degree,None
+105,software developer,employed for wages,bachelor’s degree,Computer and Mathematical
+106,neet,out of work but not currently looking for work,"some college, no degree",None
+107,worker,employed for wages,"some college, no degree",Construction and Extraction
+108,student. part time web developer?,a student,bachelor’s degree,Computer and Mathematical
+109,funemployed,out of work and looking for work,bachelor’s degree,None
+110,none,out of work and looking for work,"high school graduate, diploma or the equivalent (for example: ged)",None
+111,i/t support,a student,bachelor’s degree,None
+112,grunt,military,bachelor’s degree,None
+113,student,a student,"high school graduate, diploma or the equivalent (for example: ged)",None
+114,unemployed,unable to work,bachelor’s degree,None
+115,nothing,out of work and looking for work,bachelor’s degree,None
+116,student,a student,"some college, no degree",None
+117,student,a student,"high school graduate, diploma or the equivalent (for example: ged)",None
+118,software developer,employed for wages,"high school graduate, diploma or the equivalent (for example: ged)",Computer and Mathematical
+119,ceo,self-employed,trade/technical/vocational training,None
+120,factory worker,employed for wages,"some college, no degree",Construction and Extraction
+121,none,a student,"some college, no degree",None
+122,none,out of work and looking for work,"some college, no degree",None
+123,not employed,out of work but not currently looking for work,"high school graduate, diploma or the equivalent (for example: ged)",None
+124,popo,a student,"some college, no degree",None
+125,supervisor,employed for wages,bachelor’s degree,Personal Care and Service
+126,None,out of work but not currently looking for work,"some college, no degree",None
+127,cashier,a student,"some college, no degree",Sales and Related
+128,super pooper,retired,doctorate degree,None
+129,truck driver,employed for wages,trade/technical/vocational training,Transportation and Material Moving
+130,None,out of work but not currently looking for work,"some college, no degree",None
+131,user-carer,employed for wages,"some high school, no diploma",None
+132,lawyer,employed for wages,professional degree,None
+133,cook,employed for wages,"some college, no degree",Food Preparation and Serving Related
+134,retail worker,employed for wages,professional degree,Construction and Extraction
+135,u serious?,a student,"some college, no degree",None
+136,senior software developer,employed for wages,bachelor’s degree,Computer and Mathematical
+137,it engineer,employed for wages,"high school graduate, diploma or the equivalent (for example: ged)",Architecture and Engineering
+138,student,a student,bachelor’s degree,None
+139,software engineer,employed for wages,doctorate degree,Architecture and Engineering
+140,engineer,a student,"some college, no degree",Architecture and Engineering
+141,software eng.,employed for wages,bachelor’s degree,Computer and Mathematical
+142,student,a student,"some high school, no diploma",None
+143,student,a student,"some college, no degree",None
+144,admin,employed for wages,bachelor’s degree,None
+145,student,a student,"some college, no degree",None
+146,senior developer,employed for wages,bachelor’s degree,Computer and Mathematical
+147,college student/research intern,a student,bachelor’s degree,None
+148,student,a student,"some college, no degree",None
+149,student,a student,"high school graduate, diploma or the equivalent (for example: ged)",None
+150,sugar baby,out of work but not currently looking for work,"some high school, no diploma",None
+151,assistant caretaker,a student,bachelor’s degree,Healthcare Support
+152,engineer,self-employed,"some college, no degree",Architecture and Engineering
+153,coo,self-employed,bachelor’s degree,None
+154,researcher,employed for wages,doctorate degree,None
+155,application developer,a student,"some college, no degree",Computer and Mathematical
+156,student,a student,"high school graduate, diploma or the equivalent (for example: ged)",None
+157,none,unable to work,associate degree,None
+158,courier,employed for wages,"some college, no degree",None
+159,accounts receivable,employed for wages,associate degree,None
+160,none,a student,"some college, no degree",None
+161,student,a student,"some high school, no diploma",None
+162,zivildiener (austrian stuff),employed for wages,"high school graduate, diploma or the equivalent (for example: ged)",None
+163,software engineer,employed for wages,bachelor’s degree,Architecture and Engineering
+164,ggg,employed for wages,bachelor’s degree,None
+165,rn,employed for wages,bachelor’s degree,None
+166,None,out of work but not currently looking for work,"some college, no degree",None
+167,auditor,employed for wages,master’s degree,Business and Financial Operations
+168,student,a student,bachelor’s degree,None
+169,student,a student,bachelor’s degree,None
+170,None,out of work but not currently looking for work,associate degree,None
+171,freelance writer,a student,"some college, no degree","Arts, Design, Entertainment, Sports, and Media"
+172,clerk,employed for wages,"some high school, no diploma",Office and Administrative Support
+173,self employed,self-employed,"some high school, no diploma",None
+174,-,a student,"high school graduate, diploma or the equivalent (for example: ged)",None
+175,student,a student,"some high school, no diploma",None
+176,operations manager (i.e. i do what my father tells me to do in our family company).,employed for wages,master’s degree,Management
+177,mechanical engineer,employed for wages,master’s degree,Architecture and Engineering
+178,third manager,employed for wages,"high school graduate, diploma or the equivalent (for example: ged)",Management
+179,flight attendant,employed for wages,associate degree,Transportation and Material Moving
+180,interpreter,self-employed,master’s degree,None
+181,student,a student,bachelor’s degree,None
+182,engineer,employed for wages,"some college, no degree",Architecture and Engineering
+183,none,self-employed,"some college, no degree",None
+184,vehicle prep,employed for wages,trade/technical/vocational training,Transportation and Material Moving
+185,dunno,out of work and looking for work,bachelor’s degree,None
+186,none,unable to work,"high school graduate, diploma or the equivalent (for example: ged)",None
+187,unemployed,out of work and looking for work,"high school graduate, diploma or the equivalent (for example: ged)",None
+188,student,a student,"some college, no degree",None
+189,n/a,out of work but not currently looking for work,bachelor’s degree,None
+190,accountant,self-employed,associate degree,Business and Financial Operations
+191,unemployed,out of work and looking for work,"high school graduate, diploma or the equivalent (for example: ged)",None
+192,intern,employed for wages,"some college, no degree",None
+193,*,a student,bachelor’s degree,None
+194,student,a student,"high school graduate, diploma or the equivalent (for example: ged)",None
+195,none,a student,"high school graduate, diploma or the equivalent (for example: ged)",None
+196,student,a student,bachelor’s degree,None
+197,therapy,self-employed,bachelor’s degree,None
+198,your survey question design is bad and you should feel bad.,out of work and looking for work,bachelor’s degree,None
+199,useless,out of work but not currently looking for work,"high school graduate, diploma or the equivalent (for example: ged)",None
+200,.,out of work and looking for work,"some college, no degree",None
+201,student,out of work and looking for work,bachelor’s degree,None
+202,philosopher,out of work but not currently looking for work,"some high school, no diploma",None
+203,what?,a student,"high school graduate, diploma or the equivalent (for example: ged)",None
+204,loser,out of work and looking for work,master’s degree,None
+205,software engineer,employed for wages,trade/technical/vocational training,Architecture and Engineering
+206,student,a student,bachelor’s degree,None
+207,financial analyst,employed for wages,bachelor’s degree,Business and Financial Operations
+208,student,a student,"high school graduate, diploma or the equivalent (for example: ged)",None
+209,currently unemployed,out of work and looking for work,"high school graduate, diploma or the equivalent (for example: ged)",None
+210,nothing,out of work but not currently looking for work,"some college, no degree",None
+211,student,a student,"high school graduate, diploma or the equivalent (for example: ged)",None
+212,lifeguard,out of work and looking for work,bachelor’s degree,None
+213,lackey,employed for wages,bachelor’s degree,None
+214,none,out of work and looking for work,"high school graduate, diploma or the equivalent (for example: ged)",None
+215,teacher,employed for wages,bachelor’s degree,"Education, Training, and Library"
+216,online seller,self-employed,"some college, no degree",Business and Financial Operations
+217,student,a student,bachelor’s degree,None
+218,musician,self-employed,master’s degree,"Arts, Design, Entertainment, Sports, and Media"
+219,student,a student,"some high school, no diploma",None
+220,designer,employed for wages,associate degree,"Arts, Design, Entertainment, Sports, and Media"
+221,production editor,employed for wages,bachelor’s degree,"Arts, Design, Entertainment, Sports, and Media"
+222,job,employed for wages,"some college, no degree",None
+223,none,out of work but not currently looking for work,"some college, no degree",None
+224,bio major,a student,"some college, no degree",None
+225,system analyst associate,employed for wages,"high school graduate, diploma or the equivalent (for example: ged)",Business and Financial Operations
+226,student,a student,bachelor’s degree,None
+227,student,a student,"high school graduate, diploma or the equivalent (for example: ged)",None
+228,unemployed,unable to work,"some high school, no diploma",None
+229,student,a student,bachelor’s degree,None
+230,delivery manager,employed for wages,"some college, no degree",Management
+231,-,self-employed,bachelor’s degree,None
+232,clerk,employed for wages,bachelor’s degree,Office and Administrative Support
+233,s,employed for wages,"some college, no degree",None
+234,masters,a student,bachelor’s degree,None
+235,student,a student,"high school graduate, diploma or the equivalent (for example: ged)",None
+236,-,a student,"high school graduate, diploma or the equivalent (for example: ged)",None
+237,student,a student,bachelor’s degree,None
+238,nothing,unable to work,"some college, no degree",None
+239,none,out of work but not currently looking for work,"some college, no degree",None
+240,storekeeper,employed for wages,bachelor’s degree,None
+241,research assistant,a student,associate degree,Healthcare Support
+242,student,a student,master’s degree,None
+243,president,a student,"high school graduate, diploma or the equivalent (for example: ged)",None
+244,sales,employed for wages,"some college, no degree",Sales and Related
+245,technician,employed for wages,"some college, no degree","Life, Physical, and Social Science"
+246,junkie,out of work but not currently looking for work,"some college, no degree",None
+247,student,a student,"some college, no degree",None
+248,student,a student,bachelor’s degree,None
+249,press operator,employed for wages,"some college, no degree",Transportation and Material Moving
+250,n/a,out of work but not currently looking for work,bachelor’s degree,None
+251,student,a student,bachelor’s degree,None
+252,cleaner,employed for wages,bachelor’s degree,None
+253,--,a student,"some college, no degree",None
+254,technician,employed for wages,"high school graduate, diploma or the equivalent (for example: ged)","Life, Physical, and Social Science"
+255,-,a student,"high school graduate, diploma or the equivalent (for example: ged)",None
+256,none,out of work but not currently looking for work,"some high school, no diploma",None
+257,manager,employed for wages,bachelor’s degree,Management
+258,none,out of work and looking for work,"high school graduate, diploma or the equivalent (for example: ged)",None
+259,intern,a student,trade/technical/vocational training,None
+260,engineer,employed for wages,bachelor’s degree,Architecture and Engineering
+261,web developpeur,a student,bachelor’s degree,Computer and Mathematical
+262,software developer,employed for wages,bachelor’s degree,Computer and Mathematical
+263,unemployed,out of work but not currently looking for work,bachelor’s degree,None
+264,rather not say,employed for wages,doctorate degree,None
+265,loser,out of work but not currently looking for work,bachelor’s degree,None
+266,student,a student,"high school graduate, diploma or the equivalent (for example: ged)",None
+267,warehouse associate,employed for wages,"high school graduate, diploma or the equivalent (for example: ged)",None
+268,student,a student,associate degree,None
+269,engineer,employed for wages,bachelor’s degree,Architecture and Engineering
+270,trainee mechanical engineer,employed for wages,bachelor’s degree,Architecture and Engineering
+271,teacher,employed for wages,bachelor’s degree,"Education, Training, and Library"
+272,na,a homemaker,"some college, no degree",None
+273,engineer,employed for wages,master’s degree,Architecture and Engineering
+274,student,a student,bachelor’s degree,None
+275,cgma sudent,a student,"some college, no degree",None
+276,cleaner,employed for wages,"some high school, no diploma",None
+277,-,a student,"some college, no degree",None
+278,unemployed,out of work and looking for work,"some college, no degree",None
+279,architectural technician,employed for wages,associate degree,"Life, Physical, and Social Science"
+280,librarian,out of work and looking for work,"some college, no degree",None
+281,none,out of work and looking for work,professional degree,None
+282,administrator,employed for wages,bachelor’s degree,Computer and Mathematical
+283,None,a student,"some college, no degree",None
+284,it,employed for wages,"high school graduate, diploma or the equivalent (for example: ged)",None
+285,intern,a student,bachelor’s degree,None
+286,student,a homemaker,"some college, no degree",None
+287,undergrad student,a student,"some college, no degree",None
+288,unemployed,out of work and looking for work,"some college, no degree",None
+289,call operator,employed for wages,"high school graduate, diploma or the equivalent (for example: ged)",Transportation and Material Moving
+290,courier,employed for wages,"some college, no degree",None
+291,stockroom assistant,employed for wages,master’s degree,Healthcare Support
+292,languages,employed for wages,bachelor’s degree,None
+293,student,a student,"high school graduate, diploma or the equivalent (for example: ged)",None
+294,engineer,employed for wages,bachelor’s degree,Architecture and Engineering
+295,clerk,employed for wages,"some college, no degree",Office and Administrative Support
+296,grad student,a student,bachelor’s degree,None
+297,herder,a student,"high school graduate, diploma or the equivalent (for example: ged)",None
+298,designer,employed for wages,bachelor’s degree,"Arts, Design, Entertainment, Sports, and Media"
+299,administrative officer,employed for wages,bachelor’s degree,Business and Financial Operations
+300,/,unable to work,"some college, no degree",None
+301,student,a student,"some college, no degree",None
+302,gardener/student,a student,"some high school, no diploma",None
+303,unemployed,out of work and looking for work,bachelor’s degree,None
+304,cook,employed for wages,"some high school, no diploma",Food Preparation and Serving Related
+305,entrepreneur,self-employed,"high school graduate, diploma or the equivalent (for example: ged)",None
+306,student,a student,"some high school, no diploma",None
+307,no job,out of work and looking for work,"high school graduate, diploma or the equivalent (for example: ged)",None
+308,student,a student,"some college, no degree",None
+309,.,military,"high school graduate, diploma or the equivalent (for example: ged)",None
+310,cst analyst,employed for wages,"some college, no degree",Business and Financial Operations
+311,engineer,employed for wages,master’s degree,Architecture and Engineering
+312,artist,out of work and looking for work,"high school graduate, diploma or the equivalent (for example: ged)","Arts, Design, Entertainment, Sports, and Media"
+313,student,a student,"some college, no degree",None
+314,research associate,employed for wages,bachelor’s degree,Computer and Mathematical
+316,mechanic,employed for wages,trade/technical/vocational training,"Installation, Maintenance, and Repair"
+317,programmer,self-employed,"some high school, no diploma",Computer and Mathematical
+318,student,unable to work,"some high school, no diploma",None
+319,student?,a student,"some college, no degree",None
+320,sales associate,employed for wages,bachelor’s degree,Sales and Related
+321,teacher,employed for wages,bachelor’s degree,"Education, Training, and Library"
+322,system administrator,employed for wages,trade/technical/vocational training,Computer and Mathematical
+323,manager,employed for wages,"some college, no degree",Management
+324,web desihner,a student,bachelor’s degree,Computer and Mathematical
+325,language teacher,self-employed,"some high school, no diploma","Education, Training, and Library"
+326,none,out of work but not currently looking for work,master’s degree,None
+327,student,a student,"some college, no degree",None
+328,none,out of work and looking for work,"high school graduate, diploma or the equivalent (for example: ged)",None
+329,none,a student,"some college, no degree",None
+330,student,military,associate degree,None
+331,sales manager,employed for wages,bachelor’s degree,Management
+332,none,a student,"some college, no degree",None
+333,jpo;,a student,"high school graduate, diploma or the equivalent (for example: ged)",None
+334,janitor,employed for wages,"high school graduate, diploma or the equivalent (for example: ged)",None
+335,none,a student,master’s degree,None
+336,student,a student,bachelor’s degree,None
+337,data and development,self-employed,bachelor’s degree,Computer and Mathematical
+338,not working,a student,"some college, no degree",None
+339,student,a student,"some college, no degree",None
+340,cashier,employed for wages,"some college, no degree",Sales and Related
+341,clerk,out of work and looking for work,master’s degree,Office and Administrative Support
+342,graphic designer,self-employed,associate degree,"Arts, Design, Entertainment, Sports, and Media"
+343,student,a student,"some high school, no diploma",None
+344,student,a student,"some college, no degree",None
+345,---,employed for wages,bachelor’s degree,None
+346,student,a student,"some college, no degree",None
+347,lawm maintenance,a student,"high school graduate, diploma or the equivalent (for example: ged)","Installation, Maintenance, and Repair"
+348,university student,a student,bachelor’s degree,None
+349,retail,a student,"some college, no degree",None
+350,unemployed,out of work and looking for work,"some college, no degree",None
+351,college,a student,"high school graduate, diploma or the equivalent (for example: ged)",None
+352,None,out of work and looking for work,"high school graduate, diploma or the equivalent (for example: ged)",None
+353,undergraduate,a student,"high school graduate, diploma or the equivalent (for example: ged)",None
+354,student,out of work and looking for work,trade/technical/vocational training,None
+355,sales clerk,employed for wages,"some college, no degree",Sales and Related
+356,admin assistant,employed for wages,"high school graduate, diploma or the equivalent (for example: ged)",Healthcare Support
+357,shit kicker,employed for wages,"some high school, no diploma",None
+358,accountant,out of work and looking for work,bachelor’s degree,Business and Financial Operations
+359,postman,employed for wages,"high school graduate, diploma or the equivalent (for example: ged)",None
+360,stocker,employed for wages,"high school graduate, diploma or the equivalent (for example: ged)",None
+361,out of work,out of work but not currently looking for work,"high school graduate, diploma or the equivalent (for example: ged)",None
+362,student,a student,"some college, no degree",None
+363,student,a student,"some college, no degree",None
+364,developer,out of work but not currently looking for work,bachelor’s degree,Computer and Mathematical
+365,stocker,employed for wages,"some college, no degree",None
+366,waiter,employed for wages,"some high school, no diploma",None
+367,finance student,a student,master’s degree,None
+368,not telling,employed for wages,bachelor’s degree,None
+369,tutor,out of work and looking for work,associate degree,None
+370,unemployed,out of work and looking for work,"some college, no degree",None
+371,None,a student,"some high school, no diploma",None
+372,None,out of work but not currently looking for work,trade/technical/vocational training,None
+373,consultant,employed for wages,"some college, no degree",None
+374,analyst,employed for wages,bachelor’s degree,Business and Financial Operations
+375,student,a student,"high school graduate, diploma or the equivalent (for example: ged)",None
+376,carer,employed for wages,"high school graduate, diploma or the equivalent (for example: ged)",None
+377,i'm a student,a student,"some high school, no diploma",None
+378,none,a student,"some high school, no diploma",None
+379,na,out of work but not currently looking for work,"high school graduate, diploma or the equivalent (for example: ged)",None
+380,student,a student,"some college, no degree",None
+381,real estate,self-employed,master’s degree,Sales and Related
+382,operations executive,employed for wages,bachelor’s degree,None
+383,student,a student,bachelor’s degree,None
+384,law (enforcement) officer,a student,"high school graduate, diploma or the equivalent (for example: ged)",Protective Service
+385,nothing,out of work and looking for work,"some college, no degree",None
+386,nothing,out of work and looking for work,"some college, no degree",None
+387,nothing,a student,"some high school, no diploma",None
+388,none,a student,"high school graduate, diploma or the equivalent (for example: ged)",None
+389,cashier,employed for wages,"some college, no degree",Sales and Related
+390,consultant,employed for wages,master’s degree,None
+391,no job,a student,"some college, no degree",None
+392,student employee,a student,"some college, no degree",None
+393,usher,employed for wages,"some college, no degree",None
+394,part time paperboy,employed for wages,"some college, no degree",None
+395,principal software engineer,employed for wages,"some college, no degree",Architecture and Engineering
+396,j,out of work and looking for work,"high school graduate, diploma or the equivalent (for example: ged)",None
+397,business representative (have in mind that i am from poland),a student,"some college, no degree",Business and Financial Operations
+398,student,a student,"some high school, no diploma",None
+399,none,a student,bachelor’s degree,None
+400,no,out of work but not currently looking for work,"some high school, no diploma",None
+401,software engineer,employed for wages,bachelor’s degree,Architecture and Engineering
+402,student (comp sci),a student,bachelor’s degree,None
+403,production engineer,employed for wages,master’s degree,Architecture and Engineering
+404,none,a student,"some college, no degree",None
+405,student,a student,"high school graduate, diploma or the equivalent (for example: ged)",None
+406,student,a student,"high school graduate, diploma or the equivalent (for example: ged)",None
+407,audit associate,employed for wages,professional degree,None
+408,2nd lieutenant,military,master’s degree,None
+409,not disclosing this,employed for wages,"high school graduate, diploma or the equivalent (for example: ged)",None
+410,none,out of work but not currently looking for work,"some high school, no diploma",None
+411,None,out of work but not currently looking for work,"some college, no degree",None
+412,waitress,a student,"some high school, no diploma",None
+413,software developer,employed for wages,"some college, no degree",Computer and Mathematical
+414,artist,self-employed,bachelor’s degree,"Arts, Design, Entertainment, Sports, and Media"
+415,auditor,a student,master’s degree,Business and Financial Operations
+416,unemployed,out of work but not currently looking for work,"some high school, no diploma",None
+417,why is this obligatory?,out of work but not currently looking for work,"some high school, no diploma",None
+418,software developer,self-employed,"some college, no degree",Computer and Mathematical
+419,high school senior,a student,"high school graduate, diploma or the equivalent (for example: ged)",None
+420,student / parttime web developer,a student,"high school graduate, diploma or the equivalent (for example: ged)",Computer and Mathematical
+421,none,a homemaker,"some college, no degree",None
+422,none,out of work but not currently looking for work,"some high school, no diploma",None
+423,disabled,unable to work,"some high school, no diploma",None
+424,admin,employed for wages,"some college, no degree",None
+425,student,a student,"some high school, no diploma",None
+426,unemployed,out of work and looking for work,"some college, no degree",None
+427,none,a student,"some college, no degree",None
+428,freight broker,employed for wages,associate degree,Office and Administrative Support
+429,coordinator,employed for wages,"some college, no degree",Management
+430,research assistant,a student,"some college, no degree",Healthcare Support
+431,freelance technical theatre,self-employed,"some college, no degree","Arts, Design, Entertainment, Sports, and Media"
+432,retail associate,employed for wages,associate degree,None
+433,it,employed for wages,"some college, no degree",None
+434,student,a student,"high school graduate, diploma or the equivalent (for example: ged)",None
+436,technician,employed for wages,associate degree,"Life, Physical, and Social Science"
+437,transport,employed for wages,"high school graduate, diploma or the equivalent (for example: ged)",None
+438,none,out of work but not currently looking for work,"some high school, no diploma",None
+439,cleaner,employed for wages,"high school graduate, diploma or the equivalent (for example: ged)",None
+440,i don't have a job,a student,bachelor’s degree,None
+441,marketing,self-employed,"high school graduate, diploma or the equivalent (for example: ged)",Computer and Mathematical
+442,na,a student,"some high school, no diploma",None
+443,screener,employed for wages,"some college, no degree",None
+444,student,a student,"some college, no degree",None
+445,🌚,a student,"high school graduate, diploma or the equivalent (for example: ged)",None
+446,"program manager, non-profit",employed for wages,associate degree,Management
+447,neet parasite,out of work but not currently looking for work,"some college, no degree",None
+448,t,a student,professional degree,None
+449,designer,a student,"some high school, no diploma","Arts, Design, Entertainment, Sports, and Media"
+450,account manager,employed for wages,bachelor’s degree,Management
+451,student teacher,a student,bachelor’s degree,"Education, Training, and Library"
+452,guest advisor,a student,"some college, no degree",Personal Care and Service
+453,...,a student,"some college, no degree",None
+454,customer service,employed for wages,"some college, no degree",Office and Administrative Support
+455,teacher,employed for wages,master’s degree,"Education, Training, and Library"
+456,none,a student,"some high school, no diploma",None
+457,warehouse associate,a student,bachelor’s degree,None
+458,terminal worker,employed for wages,"some high school, no diploma",Construction and Extraction
+459,pa,employed for wages,bachelor’s degree,None
+460,case worker,employed for wages,bachelor’s degree,Construction and Extraction
+461,home depot order fulfillment,employed for wages,"high school graduate, diploma or the equivalent (for example: ged)",None
+462,erdet,a student,"some high school, no diploma",None
+463,boss,a student,"some high school, no diploma",None
+464,consultant it,employed for wages,master’s degree,None
+465,castor,employed for wages,"high school graduate, diploma or the equivalent (for example: ged)",None
+466,receptionist,employed for wages,"some high school, no diploma",None
+467,student,out of work but not currently looking for work,"high school graduate, diploma or the equivalent (for example: ged)",None
+468,scientist,employed for wages,master’s degree,"Life, Physical, and Social Science"
